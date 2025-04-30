@@ -47,14 +47,36 @@
 
 ## 🧾 Summary of Findings
 
-Please refer to `AltMobility_Assignment_Summary_Report.docx` for key insights and actionable recommendations.
+ ## 1. Key Insights from SQL Queries
+- Total Orders: 15,000
+- Unique Customers: 7,334
+- Repeat Customers: 4,402 (60%)
+- Pending Orders : 5069
+- Delivered Orders : 5057
+- Shipped Orders : 4874
+- Orders with Completed Payments: 4,267 (28.45%)
+- Orders with Failed Payments: 4,263 (28.42%)
+- Total Revenue (Completed Payments): Rs 12.57 Lakhs
+- Revenue Lost (Failed Payments): Rs 12.73 Lakhs
+## 2. Customer Retention Analysis
+The cohort analysis visualizes how many customers, grouped by their first order month (cohort),
+made repeat purchases in subsequent months. Each row represents a cohort and each column
+shows the percentage of that cohort who placed an order in the given month.
+## Insights from Power BI Cohort Matrix:
+- Retention drops after the first year across most cohorts.
+- 2020 and 2021 cohorts show solid multi-year engagement.
+- Recent cohorts (2023–2024) are showing early promise and should be targeted for loyalty building.
+## 3. Recommendations for Alt Mobility
+- Address the high payment failure rate, especially for credit card and PayPal users.
+- Create targeted re-engagement campaigns at the 2nd and 3rd month post-first-order.
+- Incentivize repeat orders through loyalty programs or reminders around peak retention months.
+- Analyze high-retention cohorts (e.g., 2020–2021) for patterns that can be replicated.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack Used 
 
 - SQL
-- Python (Pandas, Matplotlib, Seaborn)
 - Power BI
 - MS Word (Report Documentation)
 
