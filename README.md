@@ -1,8 +1,8 @@
-# Alt Mobility - Data Analyst Assignment
+# Alt Mobility - Data Analyst Internship Assignment
 
 
 ---
-# Alt Mobility - Data Analyst Internship Assignment
+
 
 This repository contains the completed assignment for the Data Analyst Intern role at **Alt Mobility**, a leading EV leasing company. The objective was to extract insights from customer and payment datasets, visualize customer retention trends, and provide recommendations for improving business operations.
 
