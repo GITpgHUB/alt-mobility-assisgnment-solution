@@ -1,24 +1,9 @@
 # Alt Mobility - Data Analyst Assignment
 
-This repository contains all SQL queries, data visualizations, and findings from the Alt Mobility Data Analyst Intern assignment.
 
 ---
 
-## 📁 Repository Structure
 
-```
-/
-├── 01_order_sales_analysis.sql
-├── 02_customer_analysis.sql
-├── 03_payment_status_analysis.sql
-├── 04_order_details_report.sql
-├── 05_customer_retention.sql
-├── AltMobility_Assignment_Summary_Report.docx
-├── customer_retention_heatmap.png
-├── customer_retention_cohort_data.csv
-```
-
----
 
 ## ✅ Tasks & Approach
 
@@ -48,11 +33,15 @@ This repository contains all SQL queries, data visualizations, and findings from
 
 ## 📊 Visualizations
 
-### Retention Heatmap (Python)
-![Heatmap](customer_retention_heatmap.png)
 
 ### Retention Matrix (Power BI)
-*Include exported screenshot image here in your repo*
+![image](https://github.com/user-attachments/assets/b1bff78c-f60a-4c0f-8284-50e6f4f0ebbf)
+![image](https://github.com/user-attachments/assets/459e1497-fbc9-4bbc-9b3f-c9a62095d0ff)
+![image](https://github.com/user-attachments/assets/cd557652-36a7-42df-9810-1afb66632fea)
+
+
+
+
 
 ---
 
@@ -70,7 +59,3 @@ Please refer to `AltMobility_Assignment_Summary_Report.docx` for key insights an
 - MS Word (Report Documentation)
 
 ---
-
-## 👨‍💼 Author
-
-*Prepared by [Your Name]* for Alt Mobility Internship Assignment (April 2025)
