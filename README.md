@@ -2,6 +2,20 @@
 
 
 ---
+# Alt Mobility - Data Analyst Internship Assignment
+
+This repository contains the completed assignment for the Data Analyst Intern role at **Alt Mobility**, a leading EV leasing company. The objective was to extract insights from customer and payment datasets, visualize customer retention trends, and provide recommendations for improving business operations.
+
+---
+
+## 📁 Datasets Used
+- `customer_orders.csv` — Order placement data (customer, order date, amount, status)
+- `payments.csv` — Payment details (status, method, amount)
+
+## 🎯 Assignment Goals
+- Perform **SQL-based analysis** to derive insights from orders, customers, and payments.
+- **Visualize customer retention** using cohort-based methods in Power BI.
+- Submit: SQL files, summary report, and cohort matrix visualizations.
 
 
 
